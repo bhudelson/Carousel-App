@@ -17,6 +17,6 @@ Optionals: <br>
     
     
 <br>
-<img src="http://http://i.imgur.com/poQHqLc.gif" alt="" width="300">
+<img src="http://i.imgur.com/poQHqLc.gif" alt="" width="300">
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
