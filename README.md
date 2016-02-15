@@ -4,7 +4,7 @@ Codepath Project 2
 <br>
 
 Description:<br>
-Implemented the flow between screens for the Carousel application.
+In this assignment we leverage views, view properties, and events to create a high fidelity prototype, implementing the Carousel app from the signed out state to the basic signed in state.
 
 <br>
 Hours spent: 18 <br>
